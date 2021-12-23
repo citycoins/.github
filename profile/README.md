@@ -1,4 +1,4 @@
-![CityCoins Logo](./CityCoins_Logo.png)
+![CityCoins Logo](https://github.com/citycoins/.github/raw/main/profile/CityCoins_Logo.png)
 
 CityCoins give communities the power to improve and program their cities.
 
